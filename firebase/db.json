@@ -1,0 +1,95 @@
+{
+  "action" : {
+    "deviceId" : " ",
+    "intensity" : -1,
+    "key" : " ",
+    "status" : " "
+  },
+  "codes" : {
+    "ar" : {
+      "KEY_POWER" : [ 911827466 ]
+    },
+    "tv" : {
+      "KEY_0" : [ 551487735 ],
+      "KEY_1" : [ 551520375 ],
+      "KEY_2" : [ 551504055 ],
+      "KEY_3" : [ 551536695 ],
+      "KEY_4" : [ 551495895 ],
+      "KEY_5" : [ 551528535 ],
+      "KEY_6" : [ 551512215 ],
+      "KEY_7" : [ 551544855 ],
+      "KEY_8" : [ 551491815 ],
+      "KEY_9" : [ 551524455 ],
+      "KEY_B" : [ 551536185 ],
+      "KEY_BACK" : [ 551490795 ],
+      "KEY_CAPTION" : [ 551525475 ],
+      "KEY_CHANNELDOWN" : [ 551518335 ],
+      "KEY_CHANNELUP" : [ 551485695 ],
+      "KEY_DOWN" : [ 551518845 ],
+      "KEY_EXIT" : [ 551541285 ],
+      "KEY_FAV" : [ 551507370 ],
+      "KEY_FORWARD" : [ 551514510 ],
+      "KEY_FUTIBOL" : [ 551542050 ],
+      "KEY_G" : [ 551521905 ],
+      "KEY_GUIDE" : [ 551540010 ],
+      "KEY_HDMI1" : [ 551538735, 551518845, 551518845, 551494365 ],
+      "KEY_HDMI2" : [ 551538735, 551518845, 551518845, 551518845, 551494365 ],
+      "KEY_HDMI3" : [ 551538735, 551518845, 551518845, 551518845, 551518845, 551494365 ],
+      "KEY_HOME" : [ 551501505 ],
+      "KEY_INFO" : [ 551516295 ],
+      "KEY_LEFT" : [ 551542815 ],
+      "KEY_LIST" : [ 551498445 ],
+      "KEY_LIVE_ZOOM" : [ 551548170 ],
+      "KEY_MENU" : [ 551535165 ],
+      "KEY_MUTE" : [ 551522415 ],
+      "KEY_NETFLIX" : [ 551512725 ],
+      "KEY_OK" : [ 551494365 ],
+      "KEY_PAUSE" : [ 551509410 ],
+      "KEY_PLAY" : [ 551489010 ],
+      "KEY_POWER" : [ 551489775 ],
+      "KEY_PRIME" : [ 551500485 ],
+      "KEY_Q_VIEW" : [ 551508135 ],
+      "KEY_R" : [ 551505585 ],
+      "KEY_REC" : [ 551533890 ],
+      "KEY_RETURN" : [ 551547150 ],
+      "KEY_RIGHT" : [ 551510175 ],
+      "KEY_SEARCH" : [ 551493345 ],
+      "KEY_SOURCE" : [ 551538735 ],
+      "KEY_STOP" : [ 551514510 ],
+      "KEY_TV" : [ 551546895 ],
+      "KEY_UP" : [ 551486205 ],
+      "KEY_USB" : [ 551538735, 551518845, 551518845, 551518845, 551518845, 551518845, 551494365 ],
+      "KEY_VOLUMEDOWN" : [ 551534655 ],
+      "KEY_VOLUMEUP" : [ 551502015 ],
+      "KEY_Y" : [ 551519865 ]
+    }
+  },
+  "devices" : {
+    "ar" : {
+      "funcao" : "R",
+      "status" : "off",
+      "temperatura" : 10,
+      "timer" : {
+        "desligar" : "off",
+        "ligar" : "off"
+      },
+      "turbo" : "off",
+      "velocidade" : 1
+    },
+    "infravermelho" : {
+      "status" : "off"
+    },
+    "monitor" : {
+      "status" : "off"
+    },
+    "portao" : {
+      "status" : "off"
+    },
+    "tv" : {
+      "canal" : "HDMI1",
+      "mute" : "off",
+      "status" : "off",
+      "volume" : 10
+    }
+  }
+}
